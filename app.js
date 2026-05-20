@@ -5,7 +5,7 @@
 ═══════════════════════════════════════════════ */
 
 /* ─── CONFIG ─── */
-const SHEET_ID = '17X';
+const SHEET_ID = '17XLTUh4GQ3uy11k26tovC3lgipijrwCMfxb_G7rPvTk';
 const TABS = {
   bank:'BankPosition', cash:'CashInHand',
   invoices:'InvoiceReceivables', finance:'FinanceLiability',
